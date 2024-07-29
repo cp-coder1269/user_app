@@ -57,9 +57,10 @@ Watch a [demonstrative video](https://drive.google.com/file/d/1Gw1lmTPa-ulLNhDXv
 ## Troubleshooting
 
 - **Backend Communication Issues**: Ensure that the Node.js backend server is running and accessible from the Flutter app.
-- **Database Connection Issues**: Verify that the MySQL server is running and properly configured.
+- **Database Connection Issues**: Verify that the MySQL server is running and properly configured with the Node.js backend server.
 - **Email Sending Issues**: Check your Amazon SES configuration in the Node.js backend server.
 
-##Contact
+## Contact
+
 If you encounter any issues or have questions, please email me at cppal474@gmail.com.
 

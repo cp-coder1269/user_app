@@ -15,12 +15,6 @@ This Flutter application allows users to submit their details, including name, e
 1. **Flutter App**: Handles user input, validation, and communicates with the backend service via HTTP requests.
 2. **Node.js Backend Server**: Manages database operations and email notifications.
 
-## Prerequisites
-
-- **Flutter**: Ensure you have Flutter installed on your machine.
-- **Node.js Backend Server**: A separate Node.js backend server that handles database operations and email notifications.
-- **MySQL Database**: A MySQL server to store user data.
-- **Amazon SES**: Amazon Simple Email Service for sending emails.
 
 ## Setup
 
